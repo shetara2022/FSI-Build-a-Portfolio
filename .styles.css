@@ -1,0 +1,40 @@
+h1{
+    background-color: rgb(230, 157, 32);
+    color: white;
+    font-family:'Georgia';
+    font-size: 60px;
+    border-color: white;
+    border-style: dashed;
+    text-align:center;
+}
+h2 {
+    font-size: 30px;
+    text-align: center;
+    text-decoration: solid;
+    font-family: Impact;
+    background-color: antiquewhite;
+    color: black;
+
+}
+div.image{
+    text-align: right;
+
+}
+h3.aboutme {
+    border-bottom-style: dotted;
+    border-color: blue;
+    font-family: fantasy;
+    font-size: 30px;
+}
+  #me{ 
+    text-align: center;
+    background-color: darksalmon;
+    border-radius: 10px;
+}
+
+p.personal {
+    font-size: 24px;
+    font-family: cursive;
+    background-color: blanchedalmond;
+    border-radius: 40px;
+}
